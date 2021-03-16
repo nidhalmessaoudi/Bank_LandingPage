@@ -245,7 +245,7 @@ const slider = function () {
   });
 
 // With Timer
-  setInterval(nextSlide, 5000);
+/*  setInterval(nextSlide, 5000);*/
 
 // With Dots
   dotContainer.addEventListener("click", e => {
